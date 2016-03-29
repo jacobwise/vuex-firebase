@@ -1,0 +1,5 @@
+export const AUTH_CHANGED = 'AUTH_CHANGED'
+export const GET_PROJECTS = 'GET_PROJECTS'
+export const GET_PROJECT = 'GET_PROJECT'
+export const SET_PROJECT = 'SET_PROJECT'
+export const GET_PROJECTS_COUNT = 'GET_PROJECTS_COUNT'
